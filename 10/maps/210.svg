@@ -78,7 +78,11 @@
   </metadata>
   <defs
      id="defs6" />
-  <image
+    <g
+     inkscape:groupmode="layer"
+     id="basemap"
+     inkscape:label="basemap">
+<image
      width="650"
      height="478"
      preserveAspectRatio="none"
@@ -86,7 +90,13 @@
      id="image10"
      x="0"
      y="0" />
-  <text
+  </g>
+
+    <g
+     inkscape:groupmode="layer"
+     id="label"
+     inkscape:label="label">
+<text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Noto Sans CJK SC;-inkscape-font-specification:Noto Sans CJK SC;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
      x="463.24319"
@@ -325,4 +335,6 @@
        x="352.08273"
        sodipodi:role="line"
        id="tspan1083-2-39-93-5">恒</tspan></text>
+  </g>
+
 </svg>
